@@ -14,7 +14,7 @@ Paper Reading Group:
 |||||
 |||||
 |||||
-| Oct 18 | An | [A Unified MRC Framework for Named Entity Recognition](https://arxiv.org/abs/1910.11476) |[slides]|
+| Oct 18 | An | [A Unified MRC Framework for Named Entity Recognition](https://arxiv.org/abs/1910.11476) |[slides](https://docs.google.com/presentation/d/1r6ffMBY4CacrTKGzXnGawyCvYI-MdKY49zM__Hhz0Vw/edit?usp=sharing)|
 
 ## Paper buckets
 ### Named entity recognition in general
