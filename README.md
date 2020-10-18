@@ -2,7 +2,7 @@
 Paper Reading Group:
 
 - Topic: Named Entity Recognition and related topics.
-- Time: 15:30 - 17:00 on Friday
+- Time: 15:00 - 17:00 (GMT+7) Sunday 
 - Location: Online
 
 ### 2020
