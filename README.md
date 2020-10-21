@@ -26,7 +26,7 @@ Password: 183569
 |---|---|---|
 |Survey| 2020 | [A survey on deep learning for named entity recognition](https://ieeexplore.ieee.org/document/9039685)|
 |Entity Representation| 2020 | [LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention](https://arxiv.org/abs/2010.01057)|
-|New Approach| 2019 | CrossWeigh: [Training Named Entity Tagger from Imperfect Annotations](https://www.aclweb.org/anthology/D19-1519/)|
+|New Approach| 2019 | [CrossWeigh: Training Named Entity Tagger from Imperfect Annotations](https://www.aclweb.org/anthology/D19-1519/)|
 ### Named entity recogntion in Biomedical domain
 |Type|Date|Title|
 |---|---|---|
