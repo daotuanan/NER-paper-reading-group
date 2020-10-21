@@ -5,7 +5,7 @@ Paper Reading Group:
 - Time: 15:00 - 17:00 (GMT+7) Sunday 
 - Location: Online
 - Zoom Meeting: 
-Join from PC, Mac, iOS or Android: https://unimelb.zoom.us/j/85490351873?pwd=NUlaYzJGd2tnTEtaSVBpYnZZU2tyQT09
+Join from PC, Mac, iOS or Android: https://unimelb.zoom.us/j/85490351873?pwd=NUlaYzJGd2tnTEtaSVBpYnZZU2tyQT09 - 
 Password: 183569
 
 
@@ -25,7 +25,8 @@ Password: 183569
 |Type|Date|Title|
 |---|---|---|
 |Survey| 2020 | [A survey on deep learning for named entity recognition](https://ieeexplore.ieee.org/document/9039685)|
-
+|Entity Representation| 2020 | [LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention](https://arxiv.org/abs/2010.01057)|
+|New Approach| 2019 | CrossWeigh: [Training Named Entity Tagger from Imperfect Annotations](https://www.aclweb.org/anthology/D19-1519/)|
 ### Named entity recogntion in Biomedical domain
 |Type|Date|Title|
 |---|---|---|
@@ -35,5 +36,4 @@ Password: 183569
 |Type|Date|Title|
 |---|---|---|
 |New approach| 2020 | [Zero-Resource Cross-Domain Named Entity Recognition](https://arxiv.org/pdf/2002.05923.pdf)|
-
-
+|Auxilary Task| 2020 | [Improving Low-Resource Named Entity Recognition using Joint Sentence and Token Labeling](https://www.aclweb.org/anthology/2020.acl-main.523/)|
