@@ -17,7 +17,7 @@ Password: 183569
 |||||
 |||||
 |||||
-|||||
+| Oct 25 | Uyen | [Named Entity Recognition without Labelled Data: A Weak Supervision Approach](https://www.aclweb.org/anthology/2020.acl-main.139.pdf) ||
 | Oct 18 | An | [A Unified MRC Framework for Named Entity Recognition](https://arxiv.org/abs/1910.11476) |[slides](https://docs.google.com/presentation/d/1r6ffMBY4CacrTKGzXnGawyCvYI-MdKY49zM__Hhz0Vw/edit?usp=sharing)|
 
 ## Paper buckets
