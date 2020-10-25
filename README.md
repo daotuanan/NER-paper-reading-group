@@ -16,7 +16,7 @@ Password: 183569
 |||||
 |||||
 |||||
-|||||
+|Oct 25 | An | [Example-Based Named Entity Recognition](https://arxiv.org/pdf/2008.10570.pdf) | [slides]|
 | Oct 25 | Uyen | [Named Entity Recognition without Labelled Data: A Weak Supervision Approach](https://www.aclweb.org/anthology/2020.acl-main.139.pdf) ||
 | Oct 18 | An | [A Unified MRC Framework for Named Entity Recognition](https://arxiv.org/abs/1910.11476) |[slides](https://docs.google.com/presentation/d/1r6ffMBY4CacrTKGzXnGawyCvYI-MdKY49zM__Hhz0Vw/edit?usp=sharing)|
 
@@ -35,5 +35,7 @@ Password: 183569
 ### Transfer learning for NER
 |Type|Date|Title|
 |---|---|---|
-|New approach| 2020 | [Zero-Resource Cross-Domain Named Entity Recognition](https://arxiv.org/pdf/2002.05923.pdf)|
+| Zero-shot Transfer | 2020 | [Zero-Resource Cross-Domain Named Entity Recognition](https://arxiv.org/pdf/2002.05923.pdf)|
 |Auxilary Task| 2020 | [Improving Low-Resource Named Entity Recognition using Joint Sentence and Token Labeling](https://www.aclweb.org/anthology/2020.acl-main.523/)|
+|Few-shot Transfer | 2020 | [Example-Based Named Entity Recognition](https://arxiv.org/pdf/2008.10570.pdf) |
+
