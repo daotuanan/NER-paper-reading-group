@@ -16,8 +16,7 @@ Password: 183569
 |||||
 |||||
 |||||
-| Oct 25 | Thinh | [CrossWeigh: Training Named Entity Tagger from Imperfect Annotations
-](https://www.aclweb.org/anthology/D19-1519) |[slides](https://docs.google.com/presentation/d/1YJSdFpJeIPaOoDkRk8T9DCPOpa6y51izx_ZFlMM50s4/edit)|
+| Oct 25 | Thinh | [CrossWeigh: Training Named Entity Tagger from Imperfect Annotations](https://www.aclweb.org/anthology/D19-1519) |[slides](https://docs.google.com/presentation/d/1YJSdFpJeIPaOoDkRk8T9DCPOpa6y51izx_ZFlMM50s4/edit)|
 | Oct 25 | Thinh | [LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention](https://arxiv.org/abs/2010.01057)| [slides](https://docs.google.com/presentation/d/1UQ5jpBlybK5PA0d9f-WTGNN04Hz13zGGQ28L1V33rJA/edit#slide=id.ga0679e60f6_1_74)
 |Oct 25 | An | [Example-Based Named Entity Recognition](https://arxiv.org/pdf/2008.10570.pdf) | [slides]|
 | Oct 25 | Uyen | [Named Entity Recognition without Labelled Data: A Weak Supervision Approach](https://www.aclweb.org/anthology/2020.acl-main.139.pdf) ||
