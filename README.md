@@ -15,7 +15,7 @@ Password: 183569
 |||||
 |||||
 |||||
-|||||
+|Nov 29| An | [A Rigorous Study on Named Entity Recognition: Can Fine-tuning Pretrained Model Lead to the Promised Land?](https://arxiv.org/pdf/2004.12126.pdf)||
 |Noc 1 | An | [Example-Based Named Entity Recognition](https://arxiv.org/pdf/2008.10570.pdf) | [slides](https://docs.google.com/presentation/d/1QJv54IcQnYwCzFmvjJNUpCgYDD1egiq0IVUpZIP11D0/edit?usp=sharing)|
 |Nov 1 | Thinh | [To BERT or Not to BERT: Comparing Task-specific and Task-agnostic Semi-Supervised Approaches for Sequence Tagging](https://arxiv.org/pdf/2010.14042.pdf)|[slides](https://docs.google.com/presentation/d/1EsDTgi2plPVlaM2RsCb4MyvwbY1UEzlwTnhoGShOlWo/edit?usp=sharing)|
 | Oct 25 | Thinh | [CrossWeigh: Training Named Entity Tagger from Imperfect Annotations](https://www.aclweb.org/anthology/D19-1519) |[slides](https://docs.google.com/presentation/d/1YJSdFpJeIPaOoDkRk8T9DCPOpa6y51izx_ZFlMM50s4/edit)|
