@@ -14,7 +14,7 @@ Password: 183569
 |---|---|---|---|
 |||||
 |||||
-|||||
+|Dec 6|Thinh|[FILTER: An Enhanced Fusion Method for Cross-lingual Language Understanding](https://arxiv.org/abs/2009.05166)|[slides](https://zhegan27.github.io/Papers/filter_slides.pdf)|
 |Nov 29| An | [A Rigorous Study on Named Entity Recognition: Can Fine-tuning Pretrained Model Lead to the Promised Land?](https://arxiv.org/pdf/2004.12126.pdf)||
 |Noc 1 | An | [Example-Based Named Entity Recognition](https://arxiv.org/pdf/2008.10570.pdf) | [slides](https://docs.google.com/presentation/d/1QJv54IcQnYwCzFmvjJNUpCgYDD1egiq0IVUpZIP11D0/edit?usp=sharing)|
 |Nov 1 | Thinh | [To BERT or Not to BERT: Comparing Task-specific and Task-agnostic Semi-Supervised Approaches for Sequence Tagging](https://arxiv.org/pdf/2010.14042.pdf)|[slides](https://docs.google.com/presentation/d/1EsDTgi2plPVlaM2RsCb4MyvwbY1UEzlwTnhoGShOlWo/edit?usp=sharing)|
@@ -42,4 +42,4 @@ Password: 183569
 | Zero-shot Transfer | 2020 | [Zero-Resource Cross-Domain Named Entity Recognition](https://arxiv.org/pdf/2002.05923.pdf)|
 |Auxilary Task| 2020 | [Improving Low-Resource Named Entity Recognition using Joint Sentence and Token Labeling](https://www.aclweb.org/anthology/2020.acl-main.523/)|
 |Few-shot Transfer | 2020 | [Example-Based Named Entity Recognition](https://arxiv.org/pdf/2008.10570.pdf) |
-
+|Cross-lingual NER | 2021 | [FILTER: An Enhanced Fusion Method for Cross-lingual Language Understanding](https://arxiv.org/abs/2009.05166)|
