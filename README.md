@@ -13,6 +13,7 @@ Password: 183569
 |Date|Presenter|Title|Slides|
 |---|---|---|---|
 |||||
+|Dec 13|Uyen|[Few-shot Learning for Named Entity Recognition in Medical Text](https://arxiv.org/ftp/arxiv/papers/1811/1811.05468.pdf)||
 |Dec 6|An|[Rethinking Generalization of Neural Models: A Named Entity Recognition Case Study](https://arxiv.org/pdf/2001.03844.pdf)|[slides](https://docs.google.com/presentation/d/11g67PmOF1GPKtHMQjx5xRYZEFSc_GBk4jKRaRxz0UuI/edit?usp=sharing)|
 |Dec 6|Thinh|[FILTER: An Enhanced Fusion Method for Cross-lingual Language Understanding](https://arxiv.org/abs/2009.05166)|[slides](https://zhegan27.github.io/Papers/filter_slides.pdf)|
 |Nov 29| An | [A Rigorous Study on Named Entity Recognition: Can Fine-tuning Pretrained Model Lead to the Promised Land?](https://arxiv.org/pdf/2004.12126.pdf)||
