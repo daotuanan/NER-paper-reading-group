@@ -5,8 +5,7 @@ Paper Reading Group:
 - Time: 15:00 - 17:00 (GMT+7) Sunday 
 - Location: Online
 - Zoom Meeting: 
-Join from PC, Mac, iOS or Android: https://unimelb.zoom.us/j/85490351873?pwd=NUlaYzJGd2tnTEtaSVBpYnZZU2tyQT09 - 
-Password: 183569
+Join from PC, Mac, iOS or Android: https://unimelb.zoom.us/j/9541244958?pwd=YVNPclNWREpkQ2JITjhlSDdCV0pJZz09
 
 
 ### 2020
