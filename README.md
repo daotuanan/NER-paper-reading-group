@@ -12,6 +12,7 @@ Join from PC, Mac, iOS or Android: https://unimelb.zoom.us/j/9541244958?pwd=YVNP
 |Date|Presenter|Title|Slides|
 |---|---|---|---|
 |||||
+|Dec 20|Thinh|[CrossNER: Evaluating Cross-Domain Named Entity Recognition](https://arxiv.org/abs/2012.04373)|[slides](https://zihanliu1026.medium.com/crossner-evaluating-cross-domain-named-entity-recognition-1a3ee2c1c42b)|
 |Dec 13|Uyen|[Few-shot Learning for Named Entity Recognition in Medical Text](https://arxiv.org/ftp/arxiv/papers/1811/1811.05468.pdf)||
 |Dec 6|An|[Rethinking Generalization of Neural Models: A Named Entity Recognition Case Study](https://arxiv.org/pdf/2001.03844.pdf)|[slides](https://docs.google.com/presentation/d/11g67PmOF1GPKtHMQjx5xRYZEFSc_GBk4jKRaRxz0UuI/edit?usp=sharing)|
 |Dec 6|Thinh|[FILTER: An Enhanced Fusion Method for Cross-lingual Language Understanding](https://arxiv.org/abs/2009.05166)|[slides](https://zhegan27.github.io/Papers/filter_slides.pdf)|
@@ -39,6 +40,7 @@ Join from PC, Mac, iOS or Android: https://unimelb.zoom.us/j/9541244958?pwd=YVNP
 ### Transfer learning for NER
 |Type|Date|Title|
 |---|---|---|
+| Cross-domain NER | 2021 | [CrossNER: Evaluating Cross-Domain Named Entity Recognition](https://arxiv.org/abs/2012.04373)|
 | Zero-shot Transfer | 2020 | [Zero-Resource Cross-Domain Named Entity Recognition](https://arxiv.org/pdf/2002.05923.pdf)|
 |Auxilary Task| 2020 | [Improving Low-Resource Named Entity Recognition using Joint Sentence and Token Labeling](https://www.aclweb.org/anthology/2020.acl-main.523/)|
 |Few-shot Transfer | 2020 | [Example-Based Named Entity Recognition](https://arxiv.org/pdf/2008.10570.pdf) |
