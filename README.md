@@ -12,6 +12,7 @@ Join from PC, Mac, iOS or Android: https://unimelb.zoom.us/j/9541244958?pwd=YVNP
 |Date|Presenter|Title|Slides|
 |---|---|---|---|
 |||||
+|Jan 17|Thinh|[Exploring Cross-sentence Contexts for Named Entity Recognition with BERT](https://www.aclweb.org/anthology/2020.coling-main.78/)|[slides]()|
 |Dec 20|Thinh|[CrossNER: Evaluating Cross-Domain Named Entity Recognition](https://arxiv.org/abs/2012.04373)|[slides](https://zihanliu1026.medium.com/crossner-evaluating-cross-domain-named-entity-recognition-1a3ee2c1c42b)|
 |Dec 13|Uyen|[Few-shot Learning for Named Entity Recognition in Medical Text](https://arxiv.org/ftp/arxiv/papers/1811/1811.05468.pdf)||
 |Dec 6|An|[Rethinking Generalization of Neural Models: A Named Entity Recognition Case Study](https://arxiv.org/pdf/2001.03844.pdf)|[slides](https://docs.google.com/presentation/d/11g67PmOF1GPKtHMQjx5xRYZEFSc_GBk4jKRaRxz0UuI/edit?usp=sharing)|
